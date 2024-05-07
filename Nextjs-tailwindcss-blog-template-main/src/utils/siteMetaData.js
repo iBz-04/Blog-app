@@ -4,10 +4,10 @@ const siteMetadata = {
   author: "Ibrahim Rayamah",
   headerTitle: "Next.js Blog",
   description:
-    "A blog app created with Next.js, Tailwind.css and contentlayer.",
+    "A blog web app created with Next.js, Tailwind.css and contentlayer.",
   language: "en-us",
   theme: "system", // system, dark or light
-  siteUrl: "https://create-blog-with-nextjs.vercel.app",
+  siteUrl: "https://next-blog-ibz.vercel.app/",
   siteLogo: "/logo.png",
   socialBanner: "/social-banner.png", // add social banner in the public folder
   email: "ibz.04dev@gmail.com",
@@ -15,8 +15,8 @@ const siteMetadata = {
   twitter: "https://twitter.com/ibrahh__ib",
   facebook: "https://facebook.com",
   youtube: "https://youtube.com",
-  linkedin: "https://www.linkedin.com/",
-  dribbble: "https://www.dribbble.com",
+  linkedin: "https://www.linkedin.com/in/ibrahim-rayamah-8b068b229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app",
+  dribbble: "https://www.dribbble.com/iBz-04",
   locale: "en-US",
 };
 
