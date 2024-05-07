@@ -4,7 +4,7 @@
 ![GitHub forks](https://img.shields.io/github/forks/codebucks27/Nextjs-tailwindcss-blog-template?style=social&logo=KashFlow&maxAge=3600)&nbsp;&nbsp;
 ![Github Followers](https://img.shields.io/github/followers/codebucks27.svg?style=social&label=Follow)&nbsp;&nbsp;<br />
 
-For Demo checkout following links👇: <br />
+For Demo checkout following link👇: <br />
 [Nextjs Personal Blog Website](https://next-blog-ibz.vercel.app/) <br />
 
 
