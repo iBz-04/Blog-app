@@ -1,4 +1,4 @@
-# SEO Optimized Blog App with Next.js, Contentlayer, and Tailwind CSS 🔥
+# Next.js, Contentlayer, and Tailwind CSS 
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ibzdev.site)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ibrahh__ib)
@@ -6,8 +6,6 @@
 For Demo checkout following link👇: <br />
 [Nextjs Personal Blog Website](https://next-blog-ibz.vercel.app/) <br />
 
-
-### ⭐DO NOT FORGET TO STAR THIS REPO⭐
 
 #### Contact
 Email: ibz.04dev@gmail.com
@@ -55,4 +53,4 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Deploy on Vercel
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) 
